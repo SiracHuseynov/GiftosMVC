@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Business.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\bin\Debug\net8.0\Giftos.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.B.62379921.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\refint\Giftos.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\Giftos.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Business\obj\Debug\net8.0\ref\Giftos.Business.dll

@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Data.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.D.D45DBCF4.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\refint\Giftos.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\ref\Giftos.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\bin\Debug\net8.0\Giftos.Data.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\Giftos.Data\obj\Debug\net8.0\Giftos.Data.genruntimeconfig.cache

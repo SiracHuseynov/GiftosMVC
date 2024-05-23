@@ -1,0 +1,760 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523122221_CreateUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E0CE1-BFEB-4AB6-8AE7-E8D44FC9E7DD}|..\\Giftos.Data\\Giftos.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07512500-5970-46E5-A33E-F0D3598F3B53}|..\\Giftos.Core\\Giftos.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E0CE1-BFEB-4AB6-8AE7-E8D44FC9E7DD}|..\\Giftos.Data\\Giftos.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07512500-5970-46E5-A33E-F0D3598F3B53}|..\\Giftos.Core\\Giftos.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07512500-5970-46E5-A33E-F0D3598F3B53}|..\\Giftos.Core\\Giftos.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\giftos.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\exceptions\\imagefileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E76CDB5-7DE1-499E-9619-F5BE16A912F7}|..\\Giftos.Business\\Giftos.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E0CE1-BFEB-4AB6-8AE7-E8D44FC9E7DD}|..\\Giftos.Data\\Giftos.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07512500-5970-46E5-A33E-F0D3598F3B53}|..\\Giftos.Core\\Giftos.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07512500-5970-46E5-A33E-F0D3598F3B53}|..\\Giftos.Core\\Giftos.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\giftos.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\giftos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0D3F7A1-5203-4924-AF22-C9B20DE3BDBB}|Giftos.csproj|solutionrelative:giftos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525E0CE1-BFEB-4AB6-8AE7-E8D44FC9E7DD}|..\\Giftos.Data\\Giftos.Data.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523105135_CreateProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:11:31.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:02:16.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwGcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:58:20.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\MemberLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MemberLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\MemberLoginVm.cs",
+              "RelativeToolTip": "ViewModels\\MemberLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:57:34.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:55:43.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowFMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:24:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADoAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:16:00.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:24:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:33:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:49:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:52:26.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240523122221_CreateUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523122221_CreateUsersTable.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Data\\Migrations\\20240523122221_CreateUsersTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523122221_CreateUsersTable.cs",
+              "RelativeToolTip": "..\\Giftos.Data\\Migrations\\20240523122221_CreateUsersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:22:21.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:23:07.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:15:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:09:47.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:10:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Giftos.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:48:57.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Giftos.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:44:56.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAJMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:33:18.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Giftos.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:45:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:54:38.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "..\\Giftos.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:20:04.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:33:03.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:53:48.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:41:41.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\Product.cs",
+              "RelativeToolTip": "..\\Giftos.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:40:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:51:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:10:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:03:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-23T11:08:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAlwE4BAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:09:59.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:10:32.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:49:11.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Giftos.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Giftos.Business.csproj",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Giftos.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Giftos.Business.csproj",
+              "RelativeToolTip": "..\\Giftos.Business\\Giftos.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T11:01:30.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:33:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ImageFileException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\ImageFileException.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Exceptions\\ImageFileException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\ImageFileException.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Exceptions\\ImageFileException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:00:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FileeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:59:30.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:56:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FileContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Business\\Exceptions\\FileContentTypeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Business\\Exceptions\\FileContentTypeException.cs",
+              "RelativeToolTip": "..\\Giftos.Business\\Exceptions\\FileContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:55:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240523105135_CreateProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523105135_CreateProductsTable.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Data\\Migrations\\20240523105135_CreateProductsTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\Migrations\\20240523105135_CreateProductsTable.cs",
+              "RelativeToolTip": "..\\Giftos.Data\\Migrations\\20240523105135_CreateProductsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:51:35.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T10:50:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Giftos.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:46:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Giftos.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:43:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Giftos.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Giftos.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:40:10.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Giftos.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Giftos.csproj",
+              "RelativeDocumentMoniker": "Giftos.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\Giftos\\Giftos.csproj",
+              "RelativeToolTip": "Giftos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T10:37:45.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
